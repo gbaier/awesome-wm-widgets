@@ -10,7 +10,7 @@ Firstly you need to get the current brightness level. There are two options:
 
  - using `xbacklight` command (depending on your video card (I guess) it may or may not work)
  
-    To check if it works install xbackligth and check if it works:
+    To check if it works install xbacklight and check if it works:
  
     ```bash
     sudo apt-get install xbacklight
